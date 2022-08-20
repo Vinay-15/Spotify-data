@@ -3,7 +3,7 @@ import requests
 #import json
 import datetime as dt
 
-TOKEN="BQDJ2QNsPcCbZBhMJI1emK8u0QROsn5wdsQyYrK1GJsbGImIcOQV5PEpOu8ixTpmsbfJQ_riZjE5fpV-hzjn7PPIz0R2NFIhdm76a-zoaClUs6csnW1ZMKcxI6CcVcfsxua479KqrwEC8zKE1PycWIEgbMlbqGI3hRyVdqiLTssqt4Z5DF3e1kU9FOLYUc9VCU9wy6iScfY"
+TOKEN="Your API Token"
 headers = {
         "Accept" : "application/json",
         "Content-Type" : "application/json",
