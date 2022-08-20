@@ -4,7 +4,7 @@ import json
 import datetime as dt
 
 
-TOKEN = "BQBlSMkFj-CY1WvjEVtee9DYqlNj4KPlCuc9Us3gxKMrWaq1k2ZOmTmoIvT1cTj9eqHLQzSf0uughPhtuI8eg9BpsLVr9-VSyYI6yyoOyMbSTOEeAR99WtQ9dTGwCP4EywLZXLJyVgjWFvdRftvvhZZYlX2cYF2_VZNfIoygwX-RFJCGyGs4-MKKbktVBtYEtTrDIm78"
+TOKEN = "Your API Token"
 headers = {
         "Accept" : "application/json",
         "Content-Type" : "application/json",
